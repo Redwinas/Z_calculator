@@ -1,0 +1,7 @@
+C:\Users\Edvis\Desktop\Zenitech\SimpleCalc_Z\SimpleCalc_Z\bin\Debug\SimpleCalc_Z.exe.config
+C:\Users\Edvis\Desktop\Zenitech\SimpleCalc_Z\SimpleCalc_Z\bin\Debug\SimpleCalc_Z.exe
+C:\Users\Edvis\Desktop\Zenitech\SimpleCalc_Z\SimpleCalc_Z\bin\Debug\SimpleCalc_Z.pdb
+C:\Users\Edvis\Desktop\Zenitech\SimpleCalc_Z\SimpleCalc_Z\obj\Debug\SimpleCalc_Z.csprojAssemblyReference.cache
+C:\Users\Edvis\Desktop\Zenitech\SimpleCalc_Z\SimpleCalc_Z\obj\Debug\SimpleCalc_Z.csproj.CoreCompileInputs.cache
+C:\Users\Edvis\Desktop\Zenitech\SimpleCalc_Z\SimpleCalc_Z\obj\Debug\SimpleCalc_Z.exe
+C:\Users\Edvis\Desktop\Zenitech\SimpleCalc_Z\SimpleCalc_Z\obj\Debug\SimpleCalc_Z.pdb
